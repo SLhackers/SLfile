@@ -1,4 +1,4 @@
-# HEX+FIRE 🔥
+# 𝗖𝗛𝗔𝗡𝗨𝗞𝗔 𝗥𝗔𝗩𝗜𝗡𝗗𝗨🔥
 CRACK FILE, CREATE FILE AND PUBLIC CRACKING PAID TOOL FREE 🔥 
 
 # Installation ⬇️ ⬇️
@@ -22,7 +22,7 @@ pip install bs4
 
 pkg install git
 
-git clone https://github.com/SW4JON/HEX-FIRE.git
+git clone https://github.com/𝘀𝗹𝗵𝗮𝗰𝗸𝗲𝗿/𝘀𝗹𝗳𝗶𝗹𝗲.git
 
 
 
@@ -30,4 +30,4 @@ git clone https://github.com/SW4JON/HEX-FIRE.git
 
 cd HEX-FIRE
 
-python Hex.py
+python 𝘀𝗹𝗳𝗶𝗹𝗲.py
